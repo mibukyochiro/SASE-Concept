@@ -4,10 +4,9 @@
 
 # SASE with Zscaler
 --------------
-For the Zscalar, The using **"Client Connector"** to connect to **Edge service node of Z-scaler** to using service such as Internet Access and private resource on premise.
+For the Zscalar, The using **"Client Connector"** to connect to **Edge service node of Zscaler** to using service such as Internet Access and private resource on premise.
 
 Zscaler have 3 modules for provide SASE service
-
 *1. ZIA:Zscaler Internet Access™*
 
 For ZIA module, provide client using internet access via zscaler edge node (enforce all traffic to manage by policy on Zscaler example. URL Filtering , Threat prevention , DNS Security , etc.)
