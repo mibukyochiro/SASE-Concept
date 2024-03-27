@@ -12,7 +12,7 @@ For the Zscalar, The using ***"Client Connector"*** to connect to ***edge servic
 <p>For ZIA module, provide client using internet access via zscaler edge node (enforce all traffic to manage by policy on Zscaler example. URL Filtering , Threat prevention , DNS Security , etc.) </p>
 
 <p>ZDX:Zscaler Digital Experience™</p>
-*** Under Implement by Thorg ***
+*** Under Implemented by Thorg ***
 
 <p>ZIP:Zscaler Private Access™</p>
 Access Private Service (ZPA:Zscaler Private Access™) then can control the policy for authenication and control client to access the internet or private resource.
