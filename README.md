@@ -49,6 +49,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
     </div>
 </div>
 
+
 - ZPA Login URL: https://admin.private.zscaler.com
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 1;">
@@ -58,6 +59,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
         <img src="https://private-user-images.githubusercontent.com/48705342/323126047-98b96104-9445-4cf0-a6f2-a7699a04dab6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk5NTQsIm5iZiI6MTcxMzMzOTY1NCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjYwNDctOThiOTYxMDQtOTQ0NS00Y2YwLWE2ZjItYTc2OTlhMDRkYWI2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3NDA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmNjc1YjhkMDI2YmQ1NTQ4NDk2MDQ0MzE4ZGZiZWEwOGQ1NTRiMTBhMGFkYWYxYjgxNjc3NWFiYzU5NTQ1ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jcxYy5Bk2xaGUsolCiVNjIWMHQPGTrVXAfTIyhQ_3ic" alt="ZPA Dashboard">
     </div>
 </div>
+
 
 - ***Note: GUI may change depending on the version of Zscaler Cloud Management.*** You can check the version at the bottom left corner of the cloud management page.
 ![Alt Text](https://private-user-images.githubusercontent.com/48705342/323123533-c6d1f108-968b-4066-8f0d-4543dfe3db75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MzMtYzZkMWYxMDgtOTY4Yi00MDY2LThmMGQtNDU0M2RmZTNkYjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4MTkzNGE4MzBjNWUwMGI0ZmFkNzIyYzJlZWEzZDk4MjMxMjI1ZGI4MzIxNjUzYTMwNmEwNDY2YTQ4NjJlMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KYE8SgNeJIorJRlD9pj8mZOeSHhgjSsPWWKsB1-brfI)
