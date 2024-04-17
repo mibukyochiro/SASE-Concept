@@ -37,7 +37,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
         <img src="https://private-user-images.githubusercontent.com/48705342/323123515-4d939298-4f12-494f-9b49-27061f81a4ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxNTAsIm5iZiI6MTcxMzM0ODg1MCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MTUtNGQ5MzkyOTgtNGYxMi00OTRmLTliNDktMjcwNjFmODFhNGNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2ZWFhNmQyYjhhNzZhNzcwMmVhZTY0ZTYzZGZmMGVjNjg5Yzg2YzQzNmNhNWQzNGE1NjdlNWZlMWEyNTAxNzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iMQIoo1NSjQu7L3XLJZQdt8l1wns2xtfw8tSuocrcZg" alt="Dashboard">
       </div>
 </div>
-
+<hr>
 - ZDX Login URL: https://admin.zdxcloud.net
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 1;">
@@ -47,7 +47,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
         <img src="https://private-user-images.githubusercontent.com/48705342/323129595-216071f4-fe36-4455-b3cf-1882c39f0dc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkzMzgsIm5iZiI6MTcxMzM0OTAzOCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjk1OTUtMjE2MDcxZjQtZmUzNi00NDU1LWIzY2YtMTg4MmMzOWYwZGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmYTY3ODA0MTQwYzkwMTA5ZGQ4MWYzZDEwNDE1MWUxNzFjMjY2NjkyNDE1MjA4NzNlYjA5YzM4NzdlNTA3NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Mp3xf_vtLep-EqIJO_zhJ-0tilKt05OhJk6vHnpwdAI" alt="zdxdashboard">
       </div>
 </div>
-
+<hr>
 
 - ZPA Login URL: https://admin.private.zscaler.com
 <div style="display: flex; justify-content: space-between;">
@@ -58,7 +58,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
         <img src="https://private-user-images.githubusercontent.com/48705342/323126047-98b96104-9445-4cf0-a6f2-a7699a04dab6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxODYsIm5iZiI6MTcxMzM0ODg4NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjYwNDctOThiOTYxMDQtOTQ0NS00Y2YwLWE2ZjItYTc2OTlhMDRkYWI2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlZTBiYTg1YWM1YjcxY2ZiNDI1M2VjOTdmYTYxMDA1YjUzOTRjMTEyMGRmNWVlNWU4NzkzMjMxNzdkN2M2ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wSVSHMM3d2FZobSFhqSc35WMjfWteF_TDDoY7Y28rA0" alt="ZPA Dashboard">
       </div>
 </div>
-
+<hr>
 
 - ***Note: GUI may change depending on the version of Zscaler Cloud Management.*** You can check the version at the bottom left corner of the cloud management page.
 ![Alt Text](https://private-user-images.githubusercontent.com/48705342/323123533-c6d1f108-968b-4066-8f0d-4543dfe3db75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MzMtYzZkMWYxMDgtOTY4Yi00MDY2LThmMGQtNDU0M2RmZTNkYjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4MTkzNGE4MzBjNWUwMGI0ZmFkNzIyYzJlZWEzZDk4MjMxMjI1ZGI4MzIxNjUzYTMwNmEwNDY2YTQ4NjJlMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KYE8SgNeJIorJRlD9pj8mZOeSHhgjSsPWWKsB1-brfI)
