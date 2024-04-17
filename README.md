@@ -27,22 +27,26 @@ The ZPA module enables the connection of private on-premises services with the Z
 --------------
 To access the management of Zscaler, as it is a SASE service platform, you can configure or check your tenant by following the link and logging in.
 
-- ZIA : https://admin.zscalerthree.net
+- ZIA Login URL: https://admin.zscalerthree.net
 
-Example :
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 50%; padding: 5px;">
+<<<<<<< HEAD
         <img src="https://private-user-images.githubusercontent.com/48705342/323123880-280fcc70-5c65-4a34-b803-5a1a728181e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM4ODAtMjgwZmNjNzAtNWM2NS00YTM0LWI4MDMtNWExYTcyODE4MWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmYzg1NjkxMTYyNzZjYTYwNTlmNGY4ZTQyMzNiODE5ZDRlZjJjY2M2M2MzODJhZGUxY2E3NTAzNTQ2MWJlMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aodTLaPLNbNhHvInhSqJPu2FyqFVdO2knbdHBKFbCAk" alt="loginpage" style="width: 50%;">
     </div>
       <div style="flex: 50%; padding: 5px;">
         <img src="https://private-user-images.githubusercontent.com/48705342/323123515-4d939298-4f12-494f-9b49-27061f81a4ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MTUtNGQ5MzkyOTgtNGYxMi00OTRmLTliNDktMjcwNjFmODFhNGNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkZTlmMzcyNzkxZWUxOWE5MjdhZjkwM2Q0ZTY2OTVjYTkwYWEwNGU0MTQ3OGEzYjQwNzQxYTQ2N2UxOGMzNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OfqBBwZruYt1Js0aEvTMrO8tZvx3CZXXcUPOlEICgt0" alt="Dashboard" style="width: 50%;">
+=======
+        <img src="https://private-user-images.githubusercontent.com/48705342/323123880-280fcc70-5c65-4a34-b803-5a1a728181e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM4ODAtMjgwZmNjNzAtNWM2NS00YTM0LWI4MDMtNWExYTcyODE4MWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmYzg1NjkxMTYyNzZjYTYwNTlmNGY4ZTQyMzNiODE5ZDRlZjJjY2M2M2MzODJhZGUxY2E3NTAzNTQ2MWJlMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aodTLaPLNbNhHvInhSqJPu2FyqFVdO2knbdHBKFbCAk" alt="loginpage" style="width: 50%;>
+    </div>
+      <div style="flex: 50%; padding: 5px;">
+        <img src="https://private-user-images.githubusercontent.com/48705342/323123515-4d939298-4f12-494f-9b49-27061f81a4ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MTUtNGQ5MzkyOTgtNGYxMi00OTRmLTliNDktMjcwNjFmODFhNGNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkZTlmMzcyNzkxZWUxOWE5MjdhZjkwM2Q0ZTY2OTVjYTkwYWEwNGU0MTQ3OGEzYjQwNzQxYTQ2N2UxOGMzNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.OfqBBwZruYt1Js0aEvTMrO8tZvx3CZXXcUPOlEICgt0" alt="Dashboard" style="width: 50%;>
+>>>>>>> thorg
     </div>
 </div>
 
 
-- ZDX : https://admin.zdxcloud.net
-
-Example : 
+- ZDX Login URL: https://admin.zdxcloud.net
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 50%; padding: 5px;">
         <img src="https://private-user-images.githubusercontent.com/48705342/323129608-019d511f-fcd6-4c69-aa5a-b163c03f397d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDA2MTUsIm5iZiI6MTcxMzM0MDMxNSwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjk2MDgtMDE5ZDUxMWYtZmNkNi00YzY5LWFhNWEtYjE2M2MwM2YzOTdkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3NTE1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkZDZhNTQ0Mjg3Y2EyZTAxYjI5ZGJkMmNmOWNhZDUyOWU5YTliM2RhMDYyMTI1ZjhiMDA1MDQ4ZGJjODMwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.THCGuqASKVbsnHbDRhlotIS3QaGwcwg3EeP9L2_OrVg" alt="ZDXLoginPage" style="width: 50%;>
@@ -52,9 +56,7 @@ Example :
     </div>
 </div>
 
-- ZPA : https://admin.private.zscaler.com
-
-Example : 
+- ZPA Login URL: https://admin.private.zscaler.com
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 50%; padding: 5px;">
         <img src="https://private-user-images.githubusercontent.com/48705342/323125474-f174c047-eeda-448b-8fe9-8180fdbb3cee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk4NDksIm5iZiI6MTcxMzMzOTU0OSwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjU0NzQtZjE3NGMwNDctZWVkYS00NDhiLThmZTktODE4MGZkYmIzY2VlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3MGUwYjMyN2NkY2VmNDBjMDMxYzA1Y2JhMDE0Y2FhNjU2NTdkODkzZWM1MzJhMzk0ZTA2MGEyYzIyM2JmZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cv2-We60PU41b0ZQDms1soo-wcSTsT55LMYpy78TiQw" alt="ZPA Login" style="width: 50%;>
@@ -64,6 +66,5 @@ Example :
     </div>
 </div>
 
-
-***Note: GUI may change depending on the version of Zscaler Cloud Management.*** You can check the version at the bottom left corner of the cloud management page.
+- ***Note: GUI may change depending on the version of Zscaler Cloud Management.*** You can check the version at the bottom left corner of the cloud management page.
 ![Alt Text](https://private-user-images.githubusercontent.com/48705342/323123533-c6d1f108-968b-4066-8f0d-4543dfe3db75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MzMtYzZkMWYxMDgtOTY4Yi00MDY2LThmMGQtNDU0M2RmZTNkYjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4MTkzNGE4MzBjNWUwMGI0ZmFkNzIyYzJlZWEzZDk4MjMxMjI1ZGI4MzIxNjUzYTMwNmEwNDY2YTQ4NjJlMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KYE8SgNeJIorJRlD9pj8mZOeSHhgjSsPWWKsB1-brfI)
