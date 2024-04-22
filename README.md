@@ -36,7 +36,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
         <img src="./figure/zialogin.png" alt="loginpage">
       </div>
       <div style="flex: 1;">
-        <img src="./figure/ziadashboard.png" alt="Dashboard">
+        <img src="./figure/ZIADashboard.png" alt="Dashboard">
       </div>
 </div>
 <hr>
