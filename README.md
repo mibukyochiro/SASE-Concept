@@ -21,7 +21,8 @@ The ZDX module provides insights and analytics into network performance, applica
 ### 3. ZPA:Zscaler Private Access™
 
 The ZPA module enables the connection of private on-premises services with the Zscaler cloud. It utilizes the 'App Connector' to allow clients to access on-premises services securely when connected to the SASE environment.
-
+   
+- Steps for ZPA-Implement: [ZPA-Implement](https://github.com/mibukyochiro/ZPA-Implement).
 
 
 # How to access management of Zscaler
@@ -53,7 +54,7 @@ To access the management of Zscaler, as it is a SASE service platform, you can c
 <hr>
 
 - ZPA POC Login URL: https://admin.private.zscaler.com
-   ***Note: URL depend on customer tenant.***
+- ***Note: URL depend on customer tenant.***
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 1;">
         <img src="./figure/zpalogin.png" alt="ZPA Login">
