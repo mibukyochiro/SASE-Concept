@@ -29,36 +29,41 @@ The ZPA module enables the connection of private on-premises services with the Z
 To access the management of Zscaler, as it is a SASE service platform, you can configure or check your tenant by following the link and logging in.
 
 - ZIA Login URL: https://admin.zscalerthree.net
+    ***Note: URL depend on customer tenant.***
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323123880-280fcc70-5c65-4a34-b803-5a1a728181e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxNTAsIm5iZiI6MTcxMzM0ODg1MCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM4ODAtMjgwZmNjNzAtNWM2NS00YTM0LWI4MDMtNWExYTcyODE4MWU1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNDM3MjEzMmU1MzZmOTBiM2ZlMmU5MmVjMjMyNzRiYzMwNDExYzVhMTk2MGRlNjFhZmNlMzE0N2FkYThlNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kCp65kcgMRIPDahvHSN8U8rAfOcPPSRWc4QzQNPt4lE" alt="loginpage">
+        <img src="./figure/zialogin.png" alt="loginpage">
       </div>
       <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323123515-4d939298-4f12-494f-9b49-27061f81a4ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxNTAsIm5iZiI6MTcxMzM0ODg1MCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MTUtNGQ5MzkyOTgtNGYxMi00OTRmLTliNDktMjcwNjFmODFhNGNlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2ZWFhNmQyYjhhNzZhNzcwMmVhZTY0ZTYzZGZmMGVjNjg5Yzg2YzQzNmNhNWQzNGE1NjdlNWZlMWEyNTAxNzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iMQIoo1NSjQu7L3XLJZQdt8l1wns2xtfw8tSuocrcZg" alt="Dashboard">
-      </div>
-</div>
-<hr>
-- ZDX Login URL: https://admin.zdxcloud.net
-<div style="display: flex; justify-content: space-between;">
-      <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323129608-019d511f-fcd6-4c69-aa5a-b163c03f397d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkzMzgsIm5iZiI6MTcxMzM0OTAzOCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjk2MDgtMDE5ZDUxMWYtZmNkNi00YzY5LWFhNWEtYjE2M2MwM2YzOTdkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ODlkYTdmM2QxZmJiY2MxZGQ4NDgxZDg0MzNiNWNkOTVlMTI3OGI1OGQyMzQ0NjEzNWQ4NjFiYmI4YzIxODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TJxVYM2eo9BBrYd_n_ZlUjGZigjVqqobet9msZjU8qE" alt="ZDXLoginPage">
-      </div>
-      <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323129595-216071f4-fe36-4455-b3cf-1882c39f0dc8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkzMzgsIm5iZiI6MTcxMzM0OTAzOCwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjk1OTUtMjE2MDcxZjQtZmUzNi00NDU1LWIzY2YtMTg4MmMzOWYwZGM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmYTY3ODA0MTQwYzkwMTA5ZGQ4MWYzZDEwNDE1MWUxNzFjMjY2NjkyNDE1MjA4NzNlYjA5YzM4NzdlNTA3NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Mp3xf_vtLep-EqIJO_zhJ-0tilKt05OhJk6vHnpwdAI" alt="zdxdashboard">
+        <img src="./figure/ziadashboard.png" alt="Dashboard">
       </div>
 </div>
 <hr>
 
-- ZPA Login URL: https://admin.private.zscaler.com
+- ZDX Login URL: https://admin.zdxcloud.net
+    ***Note: URL depend on customer tenant.***
 <div style="display: flex; justify-content: space-between;">
       <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323125474-f174c047-eeda-448b-8fe9-8180fdbb3cee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxODYsIm5iZiI6MTcxMzM0ODg4NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjU0NzQtZjE3NGMwNDctZWVkYS00NDhiLThmZTktODE4MGZkYmIzY2VlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZTcxNWMzODQxODEzOGVlMmMxNGZhM2M0NzEyNDZkMjA4ZGY4ZWQ1MWNhZjE5ZTdmMDllMzg2M2U1OGM0YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ee0RfWg8P8h6ylSEJszpnOukqfQCNtBy8h2641TdPMY" alt="ZPA Login">
+        <img src="./figure/zdxlogin.png" alt="ZDXLoginPage">
       </div>
       <div style="flex: 1;">
-        <img src="https://private-user-images.githubusercontent.com/48705342/323126047-98b96104-9445-4cf0-a6f2-a7699a04dab6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDkxODYsIm5iZiI6MTcxMzM0ODg4NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjYwNDctOThiOTYxMDQtOTQ0NS00Y2YwLWE2ZjItYTc2OTlhMDRkYWI2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDEwMTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlZTBiYTg1YWM1YjcxY2ZiNDI1M2VjOTdmYTYxMDA1YjUzOTRjMTEyMGRmNWVlNWU4NzkzMjMxNzdkN2M2ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wSVSHMM3d2FZobSFhqSc35WMjfWteF_TDDoY7Y28rA0" alt="ZPA Dashboard">
+        <img src="./figure/zdxdashboard.png" alt="zdxdashboard">
+      </div>
+</div>
+<hr>
+
+- ZPA POC Login URL: https://admin.private.zscaler.com
+   ***Note: URL depend on customer tenant.***
+<div style="display: flex; justify-content: space-between;">
+      <div style="flex: 1;">
+        <img src="./figure/zpalogin.png" alt="ZPA Login">
+      </div>
+      <div style="flex: 1;">
+        <img src="./figure/zpadashboard.png" alt="ZPA Dashboard">
       </div>
 </div>
 <hr>
 
 - ***Note: GUI may change depending on the version of Zscaler Cloud Management.*** You can check the version at the bottom left corner of the cloud management page.
-![Alt Text](https://private-user-images.githubusercontent.com/48705342/323123533-c6d1f108-968b-4066-8f0d-4543dfe3db75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMzk1NDYsIm5iZiI6MTcxMzMzOTI0NiwicGF0aCI6Ii80ODcwNTM0Mi8zMjMxMjM1MzMtYzZkMWYxMDgtOTY4Yi00MDY2LThmMGQtNDU0M2RmZTNkYjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA3MzQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4MTkzNGE4MzBjNWUwMGI0ZmFkNzIyYzJlZWEzZDk4MjMxMjI1ZGI4MzIxNjUzYTMwNmEwNDY2YTQ4NjJlMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KYE8SgNeJIorJRlD9pj8mZOeSHhgjSsPWWKsB1-brfI)
+
+![Alt Text](./figure/ziaversion.png)
